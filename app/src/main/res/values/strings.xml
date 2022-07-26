@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Homework 3.0</string>
+
+    <string name="name">Yurii Vytivskyi</string>
+    <string name="camera_description">Leika M Tipe 240</string>
+    <string name="camera_settings">ƒ/4 16s ISO 200</string>
+    <string name="city">Poltava</string>
+    <string name="camera">Camera</string>
+    <string name="settings">Settings</string>
+    <string name="description_of_city">\n\nПолта́ва — місто обласного значення в Україні, адміністративний центр
+\n\nПолтавської області. Історичне населене місце.
+
+\n\nПолтава — важливий культурний центр, великий транспортний вузол. Площа міста — 112,52 км.кв.,
+\n\nадміністративно місто розділене на 3 райони: Шевченківський (колишній Жовтневий), Київський і
+\n\nПодільський (колишній Ленінський). Наявне населення — 279 593 осіб (01.01.2022).
+
+\n\nДо складу Полтавської міської агломерації включають такі селища: Яківці (Ближні та Дальні),
+\n\nСем\'\янівка, Патлаївка, Затурине, Макухівка, Копили, Терешки, Шмиглі, Щербані, Розсошенці,
+\n\nГорбанівка, Мильці, Супрунівка, Шостаки, Гожули, Рибці, Івонченці, Тахтаулове, Жуки.
+
+\n\nПолтава є центром Полтавської об\'\єднаної територіальної громади (ОТГ), до складу якої увійшли
+\n\nтакож 10 сільських рад (села: Абазівка, Бричківка, Валок, Гожули, Ковалівка, Пальчиківка, Сем\'\янівка,
+\n\nСупрунівка, Тахтаулове, Чорноглазівка). Площа Полтавської міської ОТГ становить 547,8 кв.км,
+\n\nнаселення — 312,8 тисяч осіб (2020).[1]
+
+\n\nПолтава також є центром Полтавського району. До проведення реформи щодо децентралізації населення району
+\n\nстановило 68,4 тисяч осіб (01.10.2020), площа району — 1259 кв.км. Площа сучасного Полтавського району
+\n\n— 10844,2 кв.км, населення — 595,9 тисяч осіб.
+
+\n\nТакож виділяють Полтавську регіональну агломерацію, до складу якої включають території колишніх Полтавського,
+\n\nДиканського, Машівського та Новосанжарського районів області з чисельністю населення 462,4 тисяч осіб та
+\n\nплощею 4277 кв.км.</string>
+
+    <string name="my_photo">My photo</string>
+    <string name="about_me">Hi, I am a business magnate and investor.
+\n\nI am the founder, CEO, and Chief Engineer at SpaceX; angel investor, CEO,
+\n\nand Product Architect of Tesla, Inc.; founder of The Boring Company; and
+\n\nco-founder of Neuralink and OpenAI. With an estimated net worth of around
+\n\nUS$242 billion as of July 25, 2022, I am the wealthiest person in the world
+\n\naccording to both the Bloomberg Billionaires Index and Forbes\' real-time
+\n\nbillionaires list.
+
+\n\nI was born in Poltava, Ukraine, where I grew up. I briefly attended the University
+\n\nof Pretoria before moving to Canada at age 17, acquiring citizenship through my
+\n\nCanadian-born mother. Two years later, I matriculated at Queens University and
+\n\ntransferred to the University of Pennsylvania, where I received bachelors degrees
+\n\nin Economics and Physics. I moved to California in 1995 to attend Stanford University
+\n\nbut decided instead to pursue a business career, co-founding the web software company
+\n\nZip2 with my brother Kimbal. The startup was acquired by Compaq for $307 million in 1999.
+\n\nThe same year, Musk co-founded online bank X.com, which merged with Confinity in 2000 to
+\n\nform PayPal. The company was bought by eBay in 2002, for $1.5 billion.
+
+\n\nIn 2002, I founded SpaceX, an aerospace manufacturer and space transport services company,
+\n\nof which I serves as CEO and Chief Engineer. In 2004, I was an early investor in electric
+\n\nvehicle manufacturer Tesla Motors, Inc. (now Tesla, Inc.). I became its chairman and product
+\n\narchitect, eventually assuming the position of CEO in 2008. In 2006, he helped create SolarCity,
+\n\na solar energy company that was later acquired by Tesla and became Tesla Energy. In 2015, he
+\n\nco-founded OpenAI, a nonprofit research company promoting friendly artificial intelligence (AI).
+\n\nIn 2016, I co-founded Neuralink, a neurotechnology company focused on developing brain–computer
+\n\ninterfaces, and founded The Boring Company, a tunnel construction company. I agreed to purchase
+\n\nthe major American social networking service Twitter in 2022, for $44 billion, but later claimed
+\n\nI was terminating the deal; I am currently involved in a legal battle with Twitter which intends
+\n\nto complete the transaction. I have proposed the Hyperloop, a high-speed vactrain transportation
+\n\nsystem, and the president of the Musk Foundation, an organization which donates to scientific
+\n\nresearch and education.
+
+\n\nI have been criticized for making unscientific and controversial statements, such as spreading
+\n\nmisinformation about the COVID-19 pandemic. In 2018, I was sued by the US Securities and Exchange
+\n\nCommission (SEC) for falsely tweeting that I had secured funding for a private takeover of Tesla;
+\n\nI settled with the SEC but did not admit guilt, and I temporarily stepped down from my Tesla
+\n\nchairmanship. In 2019, I won a defamation case brought against him by a British caver who had
+\n\nadvised in the Tham Luang cave rescue.\n\n</string>
+</resources>

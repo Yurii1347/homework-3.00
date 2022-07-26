@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".LinearLayout">
+
+    <TextView
+        android:id="@+id/tv_Name"
+        style="@style/NameStyle"
+        android:background="@color/white"
+        android:text="@string/name" />
+
+    <ImageView
+        android:id="@+id/photo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:contentDescription="@string/my_photo"
+        android:padding="16dp"
+        app:srcCompat="@drawable/img_1" />
+
+    <ScrollView
+        style="@style/NameStyle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/bio_text"
+            style="@style/Widget.AppCompat.TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about_me"
+            android:textColor="#000000" />
+    </ScrollView>
+
+</LinearLayout>
